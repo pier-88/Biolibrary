@@ -1,0 +1,10 @@
+Human, Chimpanzee, Gorilla, Mouse, Pig, Rabbit, Dog, Chicken, Zebrafish
+ASB3
+CADM1
+CDH10
+ERLEC1
+FOXP1
+MGMT
+NCKIPSD
+NSUN3
+PTBP2
